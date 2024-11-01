@@ -1,0 +1,21 @@
+a{
+    margin-bottom: 20px;
+    text-decoration: none;
+
+}
+#div2{
+    background-image: url('cake.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.design{
+    margin-top: 625px;
+}
+.items{
+    margin-left: 231px;
+    margin-top: -264px;
+}
+#div1{
+    height: 100%;
+}
